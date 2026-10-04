@@ -1,5 +1,10 @@
-# myfirstgit
-first git code
-<br>
-please give me a topic
-i will do it 
+basic class and object 
+class method and self
+inheritance
+encapsulation
+polymorphism
+class variables
+static method
+property decoratos
+class inheritance and isinstant function
+multiple inheritance 
